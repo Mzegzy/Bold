@@ -14,6 +14,7 @@ Install:
 
 # Day 2
 **Introduction to command line**
+
 1. Introducing the Shell
 2. 
 
